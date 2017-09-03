@@ -1,12 +1,10 @@
 # postgresql教程
 
-从websocket的介绍开始，带你由浅入深地学习websocket，慢慢地精通websocket
-
-后面几章比较适用于ruby程序员。
+postgresql 最全面，最细致的特性介绍与应用教程
 
 原文发布于我的个人博客：https://www.rails365.net
 
-源码位于：https://github.com/yinsigan/ruby_websocket_tutorial
+源码位于：https://github.com/yinsigan/postgresql_tutorial
 
 ### 联系我:
 
