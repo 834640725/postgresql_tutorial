@@ -12,4 +12,4 @@ postgresql 最全面，最细致的特性介绍与应用教程
 
 email: hfpp2012@gmail.com
 
-qq: 903279182
+qq群: 697272886
